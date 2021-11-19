@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Avatar World",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

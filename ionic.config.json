@@ -1,0 +1,8 @@
+{
+  "name": "Avatar World",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "9cad1293"
+}
